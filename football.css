@@ -1,0 +1,72 @@
+body{
+    background-image:url('home.jpg');
+    background-attachment: fixed;
+}
+.blue{ 
+    background-color:#00b9fb;
+    color:black;
+    font-size:500%;
+    text-align:center;
+    margin-bottom:0 .5%;
+}     
+.menu{
+        font-size: 60%;
+        background-color: #00b9fb;
+        min-width:97%;
+        list-style:none;
+        margin-top:0.02%;
+        position:absolute;
+    }
+.menu li{
+        display:inline-block;
+        margin:15px 85px;
+        position:center;
+    }
+.menu li a{
+        text-decoration:none;
+        color:black;
+        padding: 5px 5px;
+        letter-spacing:2px;
+    }
+.nav-area .logo{
+	position:absolute;
+	margin-top:0.1%;
+	margin-left:0.2%;
+}
+.pink{
+    margin-top: 5%;
+    color: white;
+    font-size: 150%;
+}
+p{
+    font-size:150%;
+    color:white;
+}
+li{
+    color:white;
+    font-size:150%;
+}
+h3{
+    color:#00b9fb;
+    font-size:200%;
+    text-align:center;
+}
+form{
+    font-size:150%;
+     color:white;
+     margin-left:60px;
+}
+table{
+    background-color: #00b9fb;
+    font-size:70%;
+    
+}
+.yellow{
+    border-spacing:80px;
+    background-color: transparent;
+}
+.green{
+    font-size:250%;
+    background-color: black;
+    color: white;
+}
